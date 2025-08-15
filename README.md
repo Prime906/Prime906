@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`*Python-разработчик, интересуюсь Backend.*`
+
+`*## 🔧 Мои Hard Skills:*`
+
+- `*Python, ООП, алгоритмы*`
+- `*Telegram, pyrogram*`
+- `*PyGame*`
+- `*Flask, REST API*`
+- `*SQLite*`
+
+`*## 📌 Мои проекты:*`
+
+- `*[Flask API для погоды](https://github.com/user/weather-api)*`
+- `*[Telegram бот с мини-играми](https://github.com/user/telegram-bot)*`
+- `*[Модель предсказания цен](https://github.com/user/prices)*`
